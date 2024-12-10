@@ -1,0 +1,16 @@
+﻿;;Area (m^2);Height (-1 to 1);Amount of sunlight;Amount of noise;Distance to elderly housing;Functions on railway side (1=yes)
+;;;;;;;
+Parking;;95000;-0,7;-1;1;0,7;0
+Bike storage;;1850;-1;-1;1;0,7;0
+Student Housing;;10000;1;0;1;-1;1
+Outdoor student housing;;0;1;0;1;-1;1
+Elderly housing;;12000;-0,5;1;-1;-;0
+Outdoor elderly housing;;1000;-0,5;0;-1;-;0
+Starter housing;;14000;0,5;1;-0,5;1;0
+Outdoor starter housing;;1000;0,5;1;-0,5;1;0
+Art gallery;;2000;-1;0,5;0;0;1
+Gym;;750;-0,8;-0,5;0,5;0;0
+Cafe;;200;-1;0,5;-0,5;0;0
+Supermarket;;2500;-0,8;-1;0,5;0,8;0
+Elavators;;;-;-1;1;0,8;0
+Hallways;;;-;-1;1;-;0
