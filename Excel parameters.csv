@@ -1,18 +1,18 @@
-﻿;;Area (m^2);Voxels;Height (-1 to 1);Sunlight;Noise;Distance to elderly housing (1=close);Functions on railway side (1=yes);Wind
-;;;;;;;;;
-Public Parking;;;;-0,7;-1;1;0,7;0;
-Private parking;;90000;;-0,7;-1;1;0,7;0;
-Public bike storage;;1850;;-1;-1;1;0,7;0;
-Private bike storage;;;;;;1;;;
-Student Housing 8x;;10000;;1;0;0,8;-1;1;
-Student Housing 4x;;;;1;0;0,8;-1;1;
-Student Housing 1x;;;;1;0;0,8;-1;1;
-Elderly housing;;12000;1334;-0,5;1;-1;1;-1;
-Outdoor elderly housing;;1000;334;-0,5;0;-1;1;-1;
-Starter housing;;14000;1556;0,5;1;-0,5;1;-1;
-Outdoor starter housing;;1000;334;0,5;1;-0,5;1;-1;
-Art gallery;;2000;223;-1;0,5;0;0;1;
-Gym;;750;84;-0,8;-0,5;0,5;0;0;
-Cafe;;200;23;-1;0,5;-0,5;0;0;
-Supermarket;;2500;278;-0,8;-1;0,2;0,8;0;
-Lobby;;63;7;;;;;;
+﻿;;Area (m^2);Voxels;Height (-1 to 1);Direct sunlight;Noise;Distance to elderly housing (1=close);Functions on railway side (1=yes);Wind;View
+;;;;;;;;;;
+Public Parking;;2500;;-0,7;-1;1;0,7;0;;
+Private parking;;8000;;-0,7;-1;1;0,7;0;;
+Public bike storage;;230;;-1;-1;1;0,7;0;;
+Private bike storage;;1441;;;;1;;;;
+Student Housing 8x;;10000;;1;0;0,8;-1;1;;
+Student Housing 4x;;;;1;0;0,8;-1;1;;
+Student Housing 1x;;;;1;0;0,8;-1;1;;
+Elderly housing;;12000;1334;-0,5;1;-1;1;-1;;
+Outdoor elderly housing;;1000;334;-0,5;0;-1;1;-1;;
+Starter housing;;14000;1556;0,5;1;-0,5;1;-1;;
+Outdoor starter housing;;1000;334;0,5;1;-0,5;1;-1;;
+Art gallery;;2000;223;-1;0,5;0;0;1;;
+Gym;;750;84;-0,8;-0,5;0,5;0;0;;
+Cafe;;200;23;-1;0,5;-0,5;0;0;;
+Supermarket;;2500;278;-0,8;-1;0,2;0,8;0;;
+Lobby;;63;7;-1;0,5;0;;0;;
