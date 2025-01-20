@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="BK 7083 Doc"
+                 start-page="Introduction.md">
+
+    <toc-element topic="Introduction.md"/>
+    <toc-element topic="Design-of-building-components.md"/>
+    <toc-element topic="Shaping-the-building.md"/>
+    <toc-element topic="Convertimg-Mass-Into-the-Building.md"/>
+    <toc-element topic="Design-of-the-Surrounding-Area.md"/>
+    <toc-element topic="Texturing-and-Visualisation.md"/>
+</instance-profile>
