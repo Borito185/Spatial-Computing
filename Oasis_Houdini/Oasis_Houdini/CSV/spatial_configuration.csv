@@ -1,16 +1,15 @@
 Point X,Point Z,Point Y adjusted,Index,Connection Indices,Cluster,Location,Area,graphAreaWeight,Flatness,Blockiness,ID,
-0,0,0,0,"6,5,8",1,Student_housing,3000,1,0,0.5,0,Student_housing
-0,0,0,1,"6,5,8",1,Starter_housing,5000,1,0,0.5,1,Starter_housing
-0,0,0,2,"6,5,8",1,Assisted_housing,3000,1,0,0.5,2,Assisted_housing
-0,0,0,3,4,2,Shops,1000,0.8,1,1,3,Shops
-0,0,0,4,"13,11,14, 3",3,Startup_office,1000,0.9,0,-1,4,Startup_office
-0,0,0,5,"0,1,2",2,Gym,200,0.5,0,0.7,5,Gym
-0,0,0,6,"2,0,1",1,Community_centre,100,0.7,0,-1,6,Community_centre
-0,0,0,7,8,2,Restaurant,500,0.8,0,-1,7,Restaurant
-0,0,0,8,"7,2,1,0,6",1,Co_cooking,200,1,0,-1,8,Co_cooking
-0,0,0,9,12,3,Library,600,0.8,0,0.3,9,Library
-0,0,0,10,-1,2,Cinematheque,400,0.7,0,1,10,Cinematheque
-0,0,0,11,"4,3",2,Cafes,400,0.8,0,-1,11,Cafés
-0,0,0,12,-1,2,Arcade,400,0.7,0,-1,12,Arcade
-0,0,0,13,4,3,Fab_lab_workshop,200,0.6,0,-1,13,Fab_lab_workshop
-0,0,0,14,"3,4",3,Shared_working,1000,0.7,0,-1,14,Shared_working
+0,0,0,0,"9,12,13",1,Student_housing 8x,4000,1,0,0.5,0,Student_housing 8x
+0,0,0,1,"9,12,13",1,Student_housing 4x,3500,1,0,0.5,1,Student_housing 4x
+0,0,0,2,"9,12,13",1,Student_housing 1x,2500,1,0,0.5,2,Student_housing 1x
+0,0,0,3,"9,12,13,10,11",1,Starter_housing,15000,1,0,0.5,3,Starter_housing
+0,0,0,4,"9,12,13,10,11",1,Elderly_housing,13000,1,0,0.5,4,Elderly_housing
+0,0,0,5,"9",2,Supermarket,2500,0.5,0,0.7,5,Supermarket
+0,0,0,6,"9",2,Artgallery,2005,0.5,0,0.7,6,Artgallery
+0,0,0,7,"9",2,Gym,755,0.5,0,0.7,7,Gym
+0,0,0,8,"9",2,Café,205,0.5,0,0.7,8,Café
+0,0,0,9,"0,1,2,3,4,5,6,7,8,10,11,12,13",2,Lobby,63,0.8,0,0.7,9,Lobby
+0,0,0,10,"9,11,3,4",3,Public_carparking,2500,1,0,0.7,10,Public_carparking
+0,0,0,11,"9,10,3,4",3,Private_carparking,8000,1,0,0.7,11,Private_carparking
+0,0,0,12,"9,10,3,4,0,1,2",3,Public_bikeparking,234,1,0,0.7,12,Public_bikeparking
+0,0,0,13,"9,10,3,4,0,1,2",3,Private_bikeparking,1441,1,0,0.7,13,Private_bikeparking

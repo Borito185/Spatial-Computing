@@ -1,7 +1,7 @@
 ﻿Px,Py,Pz,Function,Acoustic,Sunlight,Daylight,GroundLevel,ClosenessRailway,,
 0,0,0,Student_housing 8x,0.7,0.7,1,0.3,0.2,,0
-0,0,0,Student_housing 4x,,,,,,,1
-0,0,0,Student_housing 1x,,,,,,,6
+0,0,0,Student_housing 4x,0.7,0.7,1,0.3,0.2,,1
+0,0,0,Student_housing 1x,0.7,0.7,1,0.3,0.2,,6
 0,0,0,Starter_housing,1,0.9,1,0.3,0.5,,3
 0,0,0,Elderly_housing,0.7,0.3,0.5,0.6,0.1,,4
 0,0,0,Supermarket,0.2,0.1,0.1,1,0.2,,5
