@@ -9,7 +9,5 @@ Point X,Point Z,Point Y adjusted,Index,Connection Indices,Cluster,Location,Area,
 0,0,0,7,"9",2,Gym,755,0.5,0.3,0.7,7,Gym
 0,0,0,8,"9",2,Café,205,0.5,0.3,0.7,8,Café
 0,0,0,9,"0,1,2,3,4,5,6,7,8,10,11,12,13",2,Lobby,63,0.8,0.3,0.7,9,Lobby
-0,0,0,10,"9,11,3,4",3,Public_carparking,2500,1,0.3,0.7,10,Public_carparking
-0,0,0,11,"9,10,3,4",3,Private_carparking,8000,1,0.3,0.7,11,Private_carparking
-0,0,0,12,"9,10,3,4,0,1,2",3,Public_bikeparking,234,1,0.3,0.7,12,Public_bikeparking
-0,0,0,13,"9,10,3,4,0,1,2",3,Private_bikeparking,1441,1,0.3,0.7,13,Private_bikeparking
+0,0,0,10,"9,10,3,4",3,Private_carparking,10500,1,0.3,0.7,11,carparking
+0,0,0,11,"9,10,3,4,0,1,2",3,bikeparking,1675,1,0.3,0.7,12,bikeparking
