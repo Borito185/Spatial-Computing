@@ -1,0 +1,16 @@
+﻿Px,Py,Pz,Function,Acoustic,Sunlight,Daylight,ViewQuality,GroundLevel,ClosenessVegetation,,
+0,0,0,Student_housing,0.7,0.7,1,0.5,0.3,0.2,,0
+0,0,0,Starter_housing,1,0.9,1,1,0.3,0.5,,1
+0,0,0,Assisted_housing,1,0.5,1,0.5,1,0.5,,2
+0,0,0,Shops,0.2,0.1,0.1,0.2,1,0.2,,3
+0,0,0,Startup_office,0.7,0.5,1,0.5,0.3,0.5,,4
+0,0,0,Gym,0.3,0.1,0.3,0.1,0.3,0.2,,5
+0,0,0,Community_centre,0.7,0.3,0.5,0.5,0.6,0.1,,6
+0,0,0,Restaurant,0.5,0.3,0.5,0.9,0.3,0.1,,7
+0,0,0,Co_cooking,0.3,0.6,0.6,0.2,0.3,0.1,,8
+0,0,0,Library,1,0.4,0.4,0.5,0.5,0.3,,9
+0,0,0,Cinematheque,0.1,0.1,0.1,0.1,0.3,0.1,,10
+0,0,0,Café,0.7,0.5,0.5,0.5,0.3,0.4,,11
+0,0,0,Arcade,0.3,0.1,0.1,0.1,0.3,0.1,,12
+0,0,0,Fab_lab_workshop,0.1,0.1,0.5,0.1,0.3,0.1,,13
+0,0,0,Shared_working,0.5,0.2,0.6,0.3,0.4,0.4,,14

@@ -2,3 +2,4 @@
 .DS_Store
 temp
 *.bgeo.sc
+**/__MACOSX/**
